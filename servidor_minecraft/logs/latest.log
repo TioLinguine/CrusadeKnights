@@ -5384,3 +5384,71 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Jun2025 03:44:40.272] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
 [02Jun2025 03:45:08.928] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
 [02Jun2025 03:45:09.495] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Jun2025 03:45:37.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Edgardo'/21132, l='ServerLevel[world]', x=-373.28, y=139.56, z=1333.63] died, message: 'Edgardo suffocated in a wall'
+[02Jun2025 03:45:37.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Edgardo'/21132, l='ServerLevel[world]', x=-373.28, y=139.56, z=1333.63] died: Edgardo suffocated in a wall
+[02Jun2025 03:46:48.176] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Jun2025 03:47:01.667] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=-11, z=-113}
+[02Jun2025 03:47:01.667] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=204, y=-11, z=-110}
+[02Jun2025 03:48:31.689] [pool-12-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa]] from pos BlockPos{x=421, y=67, z=1829}
+[02Jun2025 03:48:31.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=422, y=64, z=1829} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[02Jun2025 03:48:31.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=422, y=64, z=1829}
+[02Jun2025 03:48:31.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=422, y=64, z=1830} but found not block entity block Block{minecraft:stone} at location
+[02Jun2025 03:48:31.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=422, y=64, z=1830}
+[02Jun2025 03:48:31.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=422, y=65, z=1830} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[02Jun2025 03:48:31.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=422, y=65, z=1830}
+[02Jun2025 03:48:35.604] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=421, y=67, z=1829} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Jun2025 03:48:35.604] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=421, y=67, z=1829}
+[02Jun2025 03:49:00.975] [Worker-Main-47/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[02Jun2025 03:49:04.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Yer'/23079, l='ServerLevel[world]', x=494.51, y=54.50, z=1669.49] died, message: 'Yer drowned'
+[02Jun2025 03:49:04.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Yer'/23079, l='ServerLevel[world]', x=494.51, y=54.50, z=1669.49] died: Yer drowned
+[02Jun2025 03:50:36.293] [pool-12-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis]] from pos BlockPos{x=1013, y=83, z=427}
+[02Jun2025 03:50:40.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[02Jun2025 03:52:46.331] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=894}
+[02Jun2025 03:52:46.332] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=896}
+[02Jun2025 03:52:46.332] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=896}
+[02Jun2025 03:52:46.333] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=898}
+[02Jun2025 03:52:46.333] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=898}
+[02Jun2025 03:52:46.333] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-58, z=894}
+[02Jun2025 03:52:46.333] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-58, z=894}
+[02Jun2025 03:52:46.333] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=898}
+[02Jun2025 03:52:46.334] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=896}
+[02Jun2025 03:52:46.334] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=898}
+[02Jun2025 03:53:04.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tio_Linguine: Set the weather to clear]
+[02Jun2025 03:53:11.261] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Jun2025 03:54:17.558] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[02Jun2025 03:54:23.491] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[02Jun2025 03:54:55.382] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:54:55.383] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:54:55.993] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:54:56.055] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:55:21.762] [Worker-Main-55/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Jun2025 03:55:31.494] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-120, y=-12, z=164}
+[02Jun2025 03:55:31.875] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-58, z=1419}
+[02Jun2025 03:55:31.875] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-58, z=1419}
+[02Jun2025 03:55:31.875] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-58, z=1421}
+[02Jun2025 03:55:31.876] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-58, z=1421}
+[02Jun2025 03:55:31.876] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-58, z=1421}
+[02Jun2025 03:55:31.876] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-58, z=1419}
+[02Jun2025 03:55:31.876] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-58, z=1421}
+[02Jun2025 03:55:33.825] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-29, y=-58, z=1399}
+[02Jun2025 03:55:33.829] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-29, y=-58, z=1399}
+[02Jun2025 03:55:33.830] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-29, y=-58, z=1397}
+[02Jun2025 03:55:33.830] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-29, y=-58, z=1401}
+[02Jun2025 03:55:33.876] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-58, z=1397}
+[02Jun2025 03:55:33.877] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-58, z=1397}
+[02Jun2025 03:55:33.877] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-58, z=1401}
+[02Jun2025 03:55:33.878] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-58, z=1401}
+[02Jun2025 03:55:33.879] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1399}
+[02Jun2025 03:55:33.879] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1401}
+[02Jun2025 03:55:33.879] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1401}
+[02Jun2025 03:55:33.879] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1401}
+[02Jun2025 03:55:33.880] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1402}
+[02Jun2025 03:55:33.880] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1404}
+[02Jun2025 03:55:33.880] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-58, z=1404}
+[02Jun2025 03:55:33.880] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-58, z=1404}
+[02Jun2025 03:55:33.880] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1404}
+[02Jun2025 03:55:33.881] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1406}
+[02Jun2025 03:55:33.881] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1404}
+[02Jun2025 03:55:33.887] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-58, z=1417}
+[02Jun2025 03:55:33.887] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-58, z=1417}
+[02Jun2025 03:55:33.887] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=-58, z=1417}
