@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "33c75c4e04673fdba76ff83178fda017"
+	name: "Tio_Linguine#33c75c4e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
