@@ -4831,3 +4831,446 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Jun2025 02:30:26.803] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
 [02Jun2025 02:30:28.500] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
 [02Jun2025 02:30:28.627] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20ac1f93[id=<null>,name=Tio_Linguine,properties={},legacy=false] (/10.244.146.209:53948) lost connection: Disconnected
+[02Jun2025 02:44:47.363] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[02Jun2025 02:44:47.392] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[02Jun2025 02:44:47.441] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[02Jun2025 02:44:47.490] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[02Jun2025 02:44:47.541] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[02Jun2025 02:44:47.590] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[02Jun2025 02:44:47.642] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[02Jun2025 02:44:47.691] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[02Jun2025 02:44:47.741] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[02Jun2025 02:44:47.790] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[02Jun2025 02:44:47.840] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[02Jun2025 02:44:47.889] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[02Jun2025 02:44:48.414] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[02Jun2025 02:44:48.415] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[02Jun2025 02:44:48.417] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[02Jun2025 02:44:48.423] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[02Jun2025 02:44:48.685] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Jun2025 02:44:48.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tio_Linguine[/10.244.146.209:56119] logged in with entity id 416 at (201.5, 149.0, 267.5)
+[02Jun2025 02:44:49.070] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.070] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.070] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.070] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.071] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.071] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.071] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.071] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.071] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.071] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.072] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.072] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.072] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.072] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.072] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.072] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.073] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.074] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.075] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.075] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.075] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.075] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.075] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.075] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.076] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.076] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.076] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.076] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.077] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.077] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.077] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.078] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.078] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.078] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.078] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.078] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.078] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.079] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.079] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.079] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.079] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.079] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.079] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.080] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.080] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.080] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.080] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.080] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.080] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.081] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.082] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.083] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.083] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.083] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.083] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.083] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.083] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.084] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.085] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.085] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.085] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.085] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.085] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.086] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.086] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.086] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.086] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.086] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.086] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.087] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.088] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.089] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.090] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.090] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.090] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.090] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.090] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.090] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.091] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.091] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.091] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.091] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.091] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.091] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.092] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.093] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.094] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.094] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.094] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.094] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.094] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.094] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.095] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.096] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.096] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.096] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.097] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.098] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.099] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.100] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.149] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.149] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.150] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.151] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.152] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.153] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.154] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.155] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.156] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.157] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.158] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.159] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.160] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.161] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.162] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.163] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.164] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:iron_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:white_stool} next to Block{minecraft:pink_bed}
+[02Jun2025 02:44:49.165] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_chest} next to Block{minecraft:chest}
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:deepslate_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blackstone_furnace} next to Block{minecraft:furnace}
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding ancient_hanging_sign next to chest
+[02Jun2025 02:44:49.166] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:spruce_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.169] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.169] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:ancient_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.169] [Server thread/WARN] [zeta/]: Creative tab loop found when adding azalea_hanging_sign next to chest
+[02Jun2025 02:44:49.169] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:azalea_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.169] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_sign next to Block{minecraft:chest}
+[02Jun2025 02:44:49.169] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:blossom_ladder} next to Block{minecraft:ladder}
+[02Jun2025 02:44:49.170] [Server thread/WARN] [zeta/]: Creative tab loop found when adding blossom_hanging_sign next to chest
+[02Jun2025 02:44:49.170] [Server thread/WARN] [zeta/]: Creative tab loop found when adding glass_item_frame next to glow_item_frame
+[02Jun2025 02:44:49.170] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:feeding_trough} next to Block{minecraft:composter}
+[02Jun2025 02:44:49.170] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:grate} next to Block{minecraft:chain}
+[02Jun2025 02:44:49.170] [Server thread/WARN] [zeta/]: Creative tab loop found when adding Block{quark:rope} next to Block{minecraft:chain}
+[02Jun2025 02:44:51.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tio_Linguine
+[02Jun2025 02:44:51.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tio_Linguine
+[02Jun2025 02:44:51.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tio_Linguine
+[02Jun2025 02:44:51.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tio_Linguine
+[02Jun2025 02:44:51.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tio_Linguine
+[02Jun2025 02:44:51.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tio_Linguine
+[02Jun2025 02:44:51.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tio_Linguine
+[02Jun2025 02:44:51.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine joined the game
+[02Jun2025 02:44:51.870] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to Tio_Linguine
+[02Jun2025 02:44:51.962] [Server thread/INFO] [structurize/]: New Server UUID 2e9abb34-4005-47f5-9479-d13ad81eb21c
+[02Jun2025 02:44:51.963] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (33c75c4e-0467-3fdb-a76f-f83178fda017)
+[02Jun2025 02:44:51.998] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Tio_Linguine
+[02Jun2025 02:44:52.038] [Server thread/INFO] [Jade/]: Syncing config to Tio_Linguine (33c75c4e-0467-3fdb-a76f-f83178fda017)
+[02Jun2025 02:44:52.096] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Tio_Linguine -> Global
+[02Jun2025 02:44:52.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[02Jun2025 02:44:52.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[02Jun2025 02:44:52.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Ice and Fire]
+[02Jun2025 02:44:52.395] [Server thread/INFO] [survive/]: Syncing All Data To Client (Tio_Linguine)
+[02Jun2025 02:44:52.396] [Server thread/INFO] [survive/]: Syncing Armor Data
+[02Jun2025 02:44:52.400] [Server thread/INFO] [survive/]: Done with Armors
+[02Jun2025 02:44:52.400] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[02Jun2025 02:44:52.401] [Server thread/INFO] [survive/]: Done with Fluids
+[02Jun2025 02:44:52.401] [Server thread/INFO] [survive/]: Syncing Biome Data
+[02Jun2025 02:44:52.402] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[02Jun2025 02:45:03.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Setsuko'/4, l='ServerLevel[world]', x=208.49, y=141.00, z=278.47] died: Setsuko froze to death
