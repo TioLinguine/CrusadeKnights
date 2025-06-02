@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2025-06-02 03:13:21 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-02 03:01:52 +0000"
@@ -248,6 +254,12 @@
   "aether_redux:recipes/transportation/fieldsproot_boat": {
     "criteria": {
       "in_water": "2025-06-02 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_castle": "2025-06-02 03:13:21 +0000"
     },
     "done": true
   },
@@ -302,6 +314,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-06-02 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-06-02 03:13:21 +0000"
     },
     "done": true
   },
@@ -396,6 +414,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_castle": "2025-06-02 03:13:21 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-06-02 03:01:52 +0000"
@@ -411,6 +435,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-06-02 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-02 03:13:05 +0000"
     },
     "done": true
   },
