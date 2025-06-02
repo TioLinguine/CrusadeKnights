@@ -5319,3 +5319,23 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Jun2025 03:13:16.406] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
 [02Jun2025 03:13:16.407] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
 [02Jun2025 03:13:21.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Forgotten Wars and Kingdoms]
+[02Jun2025 03:27:56.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Super Creeps]
+[02Jun2025 03:27:59.310] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=247, y=-11, z=-115}
+[02Jun2025 03:29:48.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Katina'/8565, l='ServerLevel[world]', x=194.58, y=82.00, z=606.70] died, message: 'Katina froze to death'
+[02Jun2025 03:29:48.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Katina'/8565, l='ServerLevel[world]', x=194.58, y=82.00, z=606.70] died: Katina froze to death
+[02Jun2025 03:30:59.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[02Jun2025 03:30:59.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[02Jun2025 03:30:59.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[02Jun2025 03:31:25.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Grady'/73, l='ServerLevel[world]', x=315.42, y=135.00, z=365.42] died, message: 'Grady froze to death'
+[02Jun2025 03:31:25.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Grady'/73, l='ServerLevel[world]', x=315.42, y=135.00, z=365.42] died: Grady froze to death
+[02Jun2025 03:31:51.009] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=131, y=-41, z=335}
+[02Jun2025 03:31:51.010] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=132, y=-41, z=335}
+[02Jun2025 03:31:51.011] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=130, y=-41, z=335}
+[02Jun2025 03:31:51.117] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=131, y=-41, z=335}
+[02Jun2025 03:31:51.118] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=132, y=-41, z=335}
+[02Jun2025 03:31:51.118] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=130, y=-41, z=335}
+[02Jun2025 03:33:22.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Isaac'/11318, l='ServerLevel[world]', x=251.44, y=59.00, z=978.51] died: Isaac froze to death
+[02Jun2025 03:33:32.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elias'/11319, l='ServerLevel[world]', x=253.58, y=60.00, z=979.44] died, message: 'Elias froze to death'
+[02Jun2025 03:33:32.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elias'/11319, l='ServerLevel[world]', x=253.58, y=60.00, z=979.44] died: Elias froze to death
+[02Jun2025 03:33:43.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Monster Hunter]
+[02Jun2025 03:34:04.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ernest'/11326, l='ServerLevel[world]', x=252.35, y=60.00, z=978.65] died: Ernest froze to death
