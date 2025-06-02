@@ -5339,3 +5339,48 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Jun2025 03:33:32.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elias'/11319, l='ServerLevel[world]', x=253.58, y=60.00, z=979.44] died: Elias froze to death
 [02Jun2025 03:33:43.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Monster Hunter]
 [02Jun2025 03:34:04.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ernest'/11326, l='ServerLevel[world]', x=252.35, y=60.00, z=978.65] died: Ernest froze to death
+[02Jun2025 03:35:48.328] [Worker-Main-46/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:35:48.409] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:35:53.146] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:35:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Captured!]
+[02Jun2025 03:36:10.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jun2025 03:36:32.923] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[02Jun2025 03:36:39.821] [Worker-Main-55/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Jun2025 03:36:49.863] [Worker-Main-48/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Jun2025 03:37:01.395] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:01.396] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:01.397] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:01.398] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:01.453] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:01.995] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:01.997] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:02.334] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:02.335] [Worker-Main-47/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Jun2025 03:37:16.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Efrain'/14901, l='ServerLevel[world]', x=498.70, y=54.53, z=1514.86] died, message: 'Efrain drowned'
+[02Jun2025 03:37:16.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Efrain'/14901, l='ServerLevel[world]', x=498.70, y=54.53, z=1514.86] died: Efrain drowned
+[02Jun2025 03:37:52.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sean'/16254, l='ServerLevel[world]', x=539.50, y=54.53, z=1022.52] died, message: 'Sean drowned'
+[02Jun2025 03:37:52.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sean'/16254, l='ServerLevel[world]', x=539.50, y=54.53, z=1022.52] died: Sean drowned
+[02Jun2025 03:38:11.258] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[02Jun2025 03:40:10.164] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=894}
+[02Jun2025 03:40:10.165] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=896}
+[02Jun2025 03:40:10.165] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=896}
+[02Jun2025 03:40:10.165] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=898}
+[02Jun2025 03:40:10.166] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-58, z=898}
+[02Jun2025 03:40:10.166] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-58, z=894}
+[02Jun2025 03:40:10.166] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-58, z=894}
+[02Jun2025 03:40:10.166] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=898}
+[02Jun2025 03:40:10.167] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=896}
+[02Jun2025 03:40:10.167] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=898}
+[02Jun2025 03:41:24.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Bobbing'/17685, l='ServerLevel[world]', x=555.30, y=87.00, z=776.70] died: Bobbing was slain by Tio_Linguine
+[02Jun2025 03:41:26.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Not a Diamond]
+[02Jun2025 03:41:26.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has completed the challenge [He Wasn't So Strong]
+[02Jun2025 03:41:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has reached the goal [Worthy Equipment]
+[02Jun2025 03:41:26.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tio_Linguine has made the advancement [Apothic Affixes]
+[02Jun2025 03:42:56.808] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[02Jun2025 03:42:58.416] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[02Jun2025 03:44:36.514] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[02Jun2025 03:44:38.525] [Worker-Main-56/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[02Jun2025 03:44:40.271] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
+[02Jun2025 03:44:40.272] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
+[02Jun2025 03:45:08.928] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Jun2025 03:45:09.495] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
