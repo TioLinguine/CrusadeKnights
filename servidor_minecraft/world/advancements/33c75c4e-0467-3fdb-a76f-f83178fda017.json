@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-06-02 04:03:13 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
     "criteria": {
       "has_string": "2025-06-02 03:40:50 +0000"
@@ -835,7 +841,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-06-02 03:57:16 +0000",
+      "clover_patch": "2025-06-02 04:04:49 +0000",
       "cold_desert": "2025-06-02 02:44:53 +0000",
+      "maple_woods": "2025-06-02 04:04:51 +0000",
       "field": "2025-06-02 03:57:42 +0000",
       "coniferous_forest": "2025-06-02 03:55:02 +0000",
       "fir_clearing": "2025-06-02 03:54:45 +0000",
@@ -988,15 +996,19 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-02 03:01:41 +0000",
       "minecraft:taiga": "2025-06-02 04:00:06 +0000",
+      "minecraft:deep_ocean": "2025-06-02 04:07:28 +0000",
       "minecraft:frozen_river": "2025-06-02 03:03:24 +0000",
+      "minecraft:beach": "2025-06-02 04:03:37 +0000",
       "minecraft:river": "2025-06-02 03:56:08 +0000",
       "minecraft:snowy_plains": "2025-06-02 03:27:24 +0000",
       "minecraft:stony_shore": "2025-06-02 03:36:32 +0000",
       "minecraft:snowy_taiga": "2025-06-02 03:30:16 +0000",
       "minecraft:grove": "2025-06-02 03:30:17 +0000",
       "minecraft:jagged_peaks": "2025-06-02 03:42:25 +0000",
+      "minecraft:cold_ocean": "2025-06-02 04:03:53 +0000",
       "minecraft:forest": "2025-06-02 03:55:16 +0000",
       "minecraft:frozen_ocean": "2025-06-02 03:35:02 +0000",
+      "minecraft:ocean": "2025-06-02 04:07:04 +0000",
       "minecraft:snowy_beach": "2025-06-02 03:35:25 +0000",
       "minecraft:frozen_peaks": "2025-06-02 03:02:07 +0000",
       "minecraft:meadow": "2025-06-02 03:53:51 +0000",
